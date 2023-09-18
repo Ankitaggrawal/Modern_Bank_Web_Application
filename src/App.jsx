@@ -13,6 +13,7 @@ import {
 } from "./components";
 
 const App = () => (
+  //app
   <div className="bg-primary w-full overflow-hidden">
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
